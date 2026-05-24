@@ -1,7 +1,7 @@
 # Privacy Policy
 
 **Design QC Checker**
-Last updated: May 16, 2026
+Last updated: May 23, 2026
 
 ## Overview
 
@@ -21,7 +21,7 @@ Specifically, we do **not**:
 
 ## How the App Works
 
-The app uses Canva's built-in API to read elements on your current design page. All analysis (edge proximity, text size, font consistency, color consistency, contrast ratio, alignment) is performed locally in your browser. No data leaves your device.
+The app uses Canva's built-in API to read elements on your current design page. All analysis (edge proximity, text size, font consistency, color consistency, overlapping elements, image resolution, text overflow, spacing consistency, contrast ratio, alignment, brand palette) is performed locally in your browser. Brand palette colors, scan history, user-configured thresholds, and category preferences are stored in your browser's local storage and never transmitted. No data leaves your device.
 
 ## Third-Party Services
 
